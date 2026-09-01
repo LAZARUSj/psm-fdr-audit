@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If this software supports your work, please cite this repository."
+title: "psm-fdr-audit"
+type: software
+version: 0.1.0
+authors:
+  - family-names: "Zhang"
+    given-names: "Wenjie"
+repository-code: "https://github.com/LAZARUSj/psm-fdr-audit"
+url: "https://github.com/LAZARUSj/psm-fdr-audit"
+abstract: "Small, auditable target-decoy FDR experiments and synthetic failure scenarios for proteomics PSM scores."
+keywords:
+  - "proteomics"
+  - "mass spectrometry"
+  - "target-decoy competition"
+  - "false discovery rate"
+  - "benchmarking"
